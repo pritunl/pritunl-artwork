@@ -6,6 +6,10 @@
 	<rect display="inline" fill="#2E343E" width="807" height="656"/>
 </g>
 <g id="main">
+	<polyline opacity="0.1" fill="#CCCCCC" points="21.6,418.7 406.6,641 406.6,641 791.6,418.7 406.6,196.5 21.6,418.7 	"/>
+	<polyline opacity="0.1" fill="#CCCCCC" points="406.6,15.3 791.6,237.5 791.6,237.5 791.6,418.7 406.6,196.5 406.6,15.3 	"/>
+	<polyline opacity="0.1" fill="#CCCCCC" points="21.6,237.5 406.6,15.3 406.6,15.3 406.6,196.5 21.6,418.7 21.6,418.7 21.6,237.5 	
+		"/>
 	<line fill="none" stroke="#FFFFFF" stroke-width="4" stroke-miterlimit="10" x1="406.6" y1="196.5" x2="406.6" y2="15.3"/>
 	<line fill="none" stroke="#FFFFFF" stroke-width="4" stroke-miterlimit="10" x1="791.6" y1="418.7" x2="406.6" y2="196.5"/>
 	<line fill="#FF0000" stroke="#FFFFFF" stroke-width="4" stroke-miterlimit="10" x1="21.6" y1="418.7" x2="406.6" y2="196.5"/>
@@ -695,10 +699,6 @@
 	<line fill="none" stroke="#FFFFFF" stroke-width="4" stroke-miterlimit="10" x1="406.6" y1="641" x2="406.6" y2="459.8"/>
 	<line fill="#FF0000" stroke="#FFFFFF" stroke-width="4" stroke-miterlimit="10" x1="406.6" y1="459.8" x2="791.6" y2="237.5"/>
 	<line fill="none" stroke="#FFFFFF" stroke-width="4" stroke-miterlimit="10" x1="406.6" y1="459.8" x2="21.6" y2="237.6"/>
-	<polyline opacity="0.1" fill="#CCCCCC" points="406.6,15.3 791.6,237.5 791.6,237.5 791.6,418.7 406.6,196.5 406.6,15.3 	"/>
-	<polyline opacity="0.1" fill="#CCCCCC" points="21.6,237.5 406.6,15.3 406.6,15.3 406.6,196.5 21.6,418.7 21.6,418.7 21.6,237.5 	
-		"/>
-	<polyline opacity="0.1" fill="#CCCCCC" points="21.6,418.7 406.6,641 406.6,641 791.6,418.7 406.6,196.5 21.6,418.7 	"/>
 	<polyline opacity="0.1" fill="#CCCCCC" points="21.6,237.6 406.6,459.8 406.6,459.8 791.6,237.5 406.6,15.3 21.6,237.5 	"/>
 	<polyline opacity="0.1" fill="#CCCCCC" points="406.6,641 791.6,418.7 791.6,237.5 791.6,237.5 406.6,459.8 406.6,459.8 406.6,641 
 			"/>
