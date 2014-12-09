@@ -5,106 +5,19 @@
 <style type="text/css">
 	.st0{opacity:0.8;fill:#34233F;}
 	.st1{fill:none;stroke:#000000;stroke-width:4;stroke-miterlimit:10;}
-	.st2{opacity:0.8;}
-	.st3{fill:#34233F;}
-	.st4{fill:#FFFFFF;}
-	.st5{fill:none;stroke:#7E8284;stroke-width:4;stroke-linecap:round;stroke-miterlimit:10;}
-	.st6{opacity:0.6;fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-miterlimit:10;}
-	.st7{fill:#54B734;}
-	.st8{fill:#64D0FF;}
-	.st9{fill:#BF42F4;}
-	.st10{opacity:0.5;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10;}
+	.st2{fill:#FFFFFF;}
+	.st3{opacity:0.8;}
+	.st4{fill:none;stroke:#7E8284;stroke-width:4;stroke-linecap:round;stroke-miterlimit:10;}
+	.st5{opacity:0.6;fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-miterlimit:10;}
+	.st6{fill:#54B734;}
+	.st7{fill:#64D0FF;}
+	.st8{fill:#BF42F4;}
+	.st9{opacity:0.5;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10;}
 </style>
 <polygon class="st0" points="9.9,185.4 9.9,85.4 96.5,35.4 96.5,135.4 "/>
 <polygon class="st0" points="183.1,185.4 183.1,85.4 96.5,35.4 96.5,135.4 "/>
 <polyline class="st1" points="183.1,185.4 96.5,135.4 96.5,35.4 96.5,135.4 9.9,185.4 "/>
-<g class="st2">
-	
-		<image style="overflow:visible;" width="210" height="137" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAANIAAACJCAYAAABZ0GZ2AAAACXBIWXMAAAsSAAALEgHS3X78AAAA
-GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAETdJREFUeNrsnQtzo7gShcXLjuf/
-/9SbjF/AvVtl6vZ2+iWQQECrSoUnm8lmMJ+7z9ERhODDhw8fPnz48OHDhw8fPqZR+SnY3Xsz+qlx
-kHzkeR8cLgfJz/+C92N0oBwkP+e//6yBJYHjUDlIpzvX1OvKABYFzqhA5UA5SIcFCB651/jvcBBx
-rx2oFUfrp2AViDiAuCl9yGFwqEn9ncphcpD2XoU4gGrmdaWABOfAvB4ZmLw6OUi7beM4gGowK/S6
-Ylo7CM2AXlcOlGukswAEoWkQTDUDU2AgwrMn4OJaP9dPXpGK10FaBWrAEU4KJgwSBc80a/C1SqhQ
-o+snB2kvOohq3yBALTpSQFWoDRsZgP6Zb3CsUYWqUKUK3u45SHto4yAIVPVphQlh4kCC8ODZAKhq
-AFMPgBlcPzlIe9FBNVN9ptmBYwf+jCsTHANRhV5gvsHxjapUBapTZWz3HCgHaTMdJFUgCM8FHSmY
-anRBDwJET3SEUNUIQFihLC2fw+QgbaKDKIDgvDCzQy0eB9IbgPJEswMwtahaQagqpJ+Ct3sOUkk6
-CLZxExgXBNCVOeKqJIEEK9GDOT4B1C+gn96EfqLaPQfKQdpUB+EWjgIIT6oqUSBR1ejxmZfPsQPH
-FrV8GCgIEW733C53kJLooEC0cBYdhDUQhuYLHTFInVKRXgxId3DEULWf721RpaKAwtVp8OrkIC3V
-QVwFknQQrkJfCCI4U4F0//ycCaI7+p0gVA34GTVo896g3YPT9ZODlKyNw1UIW9laBYJV6Ib+jHWS
-VSPBagQhgvMOfu4D/L5QQ70BVNPPxwkJt8sdJFMbZ7WzW6aNuxAQfRnmdaHZMBkLd0F33RHsD/Tv
-eIIqBY0IakHX9ZODJLZxNdPKcWkEyomzAHQj2r1rmG9/X5HRcBEm1e61SD9Z7XKPG50QpBg7W3Pj
-OtTCXQgT4cYA9EUYDfBCb5FjR4GEnTvOFZSAwgvBDwIsCBTWTx43OhlIc+zsqRJw60FUG/eFKtGN
-ef3FtF8dU404kHoGpgeh1y4EXJ3Q7j0JVw/rJ48bnQiklLGezggQBIcCSHLp5oZWu8+Fjqtlp1Ql
-ST/h9SdKP3nc6OAg5Yj1WHXQTWnjYOvVgXauA//v6fepGJBGcAFP7VYb5EBsLFD38HvdyeNGJwEp
-ZawHTqsOuhkNBSqkiitRrYDUfC7Y5nMhc25iR+iiGKAe4fdirseNDgrSGrEeSQfdBFubWiPCALUI
-agqiQMA0BHqXbatAZQnPcg4frFAeNzoQSDl0EK5CMTqIA+giACRVIgmk6fsHpkW1QMWZERxQlF3u
-caMdg5RbB10YgDQzgWrjLgRAuAppdxAK6EIbwQUorX29g20/lAaUZJd73GiHIOXSQVKsJ8ZMsLZx
-+EYnlQGiANqgCoFEVSbqw+MptHvauhNnl3vcaEcgraWDpFSCpIWoCiQB1CgAVcq5GNH3Dug8DMQH
-yUtp97S1J48b7RykXNsbNB30ZdBB1IXWMm6cVIUogKQ7rVboIqvB12F16tGxDfLO3Zg1KI8b7QSk
-Nbc3zAXoSugHDqAm8LcmtgCE/zsGamS004C0CwVUq7R82vb408eN2h0ApLVxKbY3aBBJqQRchfDC
-KqeDNIC0m+hXxEVWETBh/QSBwh88VpA8blQ4SFtvb7AChCtQJwCktXGxT+2rGKCo76P0k1bBscO3
-ddxoF/qpLbQKrb294SaYCFI2rkOGRq2sCS0BKAYoTj9JIGlALYkbUdvdD6Wf2sIACmHb7Q3W9SAM
-EHffbksbVyU6hyNhkVeEdhoY/cRBlSJuxN074jD6qS0YoC22N8xZD9J0UAi2x1qGhEBRrwOCC+qn
-KqLdSxk3Oox+ajeEqPTtDTGxntQ6aOn51dq9SqlOOeNGh9yu0W5YhUrf3mDRQZqdvSZAse0ep59y
-x40OuV2j3QAgSQeVsL3hYtRBMXb2Vg90k9o9ST/ljBsdcrtGuzFAe9jeEBvrKQEgS7vH6ac140aH
-2a7RZoZo7VhPzu0NJemgVO2eZpeniBudYrtGm7kKrRnrybG9waKDSq1CKezyVHEja7u32+0abSaA
-tDYudaxnre0NewYo1i5PHTeytHu73a7RJnxDSon1rLG9ofQ2LoVdHgz6KSZuVMJ2jWx2eZuwCsXY
-2TljPTm3NxwJoKX6SQNJe9TnFts1srV7beYqVBvt7JhYTwnbG44C0BL9JC3oUvrpKWintbZrWO3y
-MTdIMVXI+hS7a0gT61lje8NRAYrVTyHY4kY904nk3q4B2z3KLk8ehm0XQiRVoVgdlCPWs+b2hqMC
-lTpulHu7Bm73KLu8J1o9bESEmOrUJoCoJiBKcZ8ES6ynxO0NZ2z3YvRTzu0aLapUDbLL3+D9x60e
-te5khmlOa2dJJbSKDvoiqtAtzIv1lLq94UztXinbNSBED/T/eAGYKgKmIMCUpCJZ9gnFJhKsFWhJ
-rKeU7Q1naPe23q5BpSq09UEIExzDHANibmvHQWSpQBw0N0ELnTXWs3e7PPd2Dc7Ri7mnOjWG1K2d
-po0oiDiAbgQwt2CL9qSO9ThA2+sn63YNKXbUMRXJcktobozh98MLVKCsrZ3W1rXhd6Tni6g20/xj
-hCgmleB29v70k2W7BgdQp7R01mo0MrOK0UutsRpJbR3ltFwRQH/A8Q/6On7Kd+wjUPa8veHM+inF
-dg1Li6/BMwgwjcK/b7ZGsrZ2WAv9YeaN0EUURLGb7FwH7UM/ads13orL1zATf7hieKDdDbexw1kx
-7d0ijaRthZB0kgQUBinmkZAe6zmGfsKf/Lg6UcsrtWAscY8Lxc/fhfEhOGvkMFbBmHRoI9o6DqaG
-0ElWrYSrERUytZw0t7P3qZ9wlZIeVaNpYO6h1fDB1fAB1m9gbMS4emR7t6S109YEpM150ma7S+Q6
-gLdx+9VPcNRMddIGrjo9AdAUF3qGuIe8VSFTsiEE273npJyd5rZIFcgKkQO0v3YPQzUAuDiHDYKD
-rzNqiURbb6wiAF4MklU/SeVZm1WQ0wiVw3Jo0OBrbErUhvZPu64q4bqaNeoMJ2PM8LNGv8ZOO8ZM
-f5+zuFcDaWTKLLYW8eyVSf0dze/3cTxorNdTzHVFXWPSulH2jX2j0qsOyFrEYg9OHO/RrGzcAtQz
-Ra2PMqrLyFxTHDycA8ddX3DC7+0NYEXD1EZ+UuB/MPWPnH7xZ6BvWiGJvCBUu4YABAPF+f4OVFnt
-2UhcVwMCqWcAgg7cg5j3z8Rfn3bRvoxAhZjOp4lw5yS3ThN9Wv6N00Oj8CZY3jB38soHSPpg7gl4
-ngw4/8y/zLyD4x3BBavWgMAyX38aSBJYIdBp3srYoo3CiQ3KJ4PlH+cJh/LaOE4WcBBhgJ4EQBMs
-P58JX/8QQN2FCvVWdNSsihSCnByItREtJkVsmHA0VCpfrC0TIC739maq0BMA9JcABs5vAiwNpPfc
-ahQDUlBg0gDSPoWwwByZP1sSuhiU0VBpfazXxuH3uheMAw6gvwQ032D+EFVpDkRJNBL3aR6zcEUJ
-SVzGhyAncYegW+Cj4Y21tn4+0rlxkiPXC84ubOH+RkD0Q8AkaSMNIuu1pIIUC05MFeqJYy+ANhhA
-GhdC5EDl10G94PK+BA30l6g83wREXCW6MwbDOySww60gxVxwlBaiLE0Mj7aANhAW6RzN5Popfxtn
-0UEQoGnemSpEaSAOph/GXKAgoizwbBUphLg80mj4ROLaul6BS0s/WCuU66cydBDWQHcBoAmW/6Aj
-V4X+EppoAqk32t3mRdkm4iRWESc6JjakxTwo6KjqhO9NJpVlt8vT6SDt/bbooDsCQAKIg0iyuaf/
-H4RZ+0COSjg0kSezWljepXWDIcTlpXpjy0edmMrg9jlQ8+xszkh4o4v6EVmBvgVnTlsn4owF6roJ
-YUZMqJlxYivlwhoZx85aleYANRpcPu3EcLGis7Z7MR+UHESUDuKMBMpM0CCStNAz/N4NqwVXZ0E0
-F6RYmLgTPjIunWVKhoS2/hSM5sRZ40ZzdBC+D4IG0J2xsjWAvhmAIEQvgysHf/+wRBstBYm6mGKC
-iSNz4fcGE0IyIPoQt/4UDECdqd2LsbO1Vk6zs2PauG9GBz2Mtra22Lp431uT4ORrcSBLO6C1fIMB
-Jkk/aftPrNb5Udu9ObGe3uDGUXb2T2QVkhIKHEBvg629uAqlBsl6MWlOz1z9pC3qjhFmxNniRkvs
-7D7Szl4C0PQzHkFOKFjbuCRVKBdI1nbP4uhp+mkwwKS5M2ePG+WI9TwT6iApmQABsi6uzl203wSk
-WP2kuXtjkNectK/nWMzdu35KFeuJXQ+yWtqUDsKLqhRAwxYA5QYpl36y6KZYM+IscaNUsR4KormJ
-BKudbW3jtB2u2e7z0az0JubQTxawYsyIo8aNcm1vwADdw7/3/3wbIEqpg7K4caWBNFc/UW/wXP10
-xrjRWrEeKVBqzcYVr4NKAWmufrJEjIYF+umIcaOtYz1aC4fDpbvQQaWBZNFPwWBTc1XKop+OGjda
-O9YzB6Ld6qBSQVqqn2IzfKXGjVIAtVWsx2ImcADtTgeVDtIc/RSC/YaCR48blRTrseqgO6ODeiNE
-m7ZxJYMU0+5ZLNshwozYOm40F6hSYz3aJrvHXnXQnkCaA5TVLi81bhSrn/YQ67Fs9ZbCpcnT2WcF
-yaqd9hI3WqKfLNqxlFhPiu0NxeqgvYI01y4PYbu40aC88TGfqtaNk6XGelJubygaor2AZGn3Sogb
-cS2fpmfmmgulxHqK3t7gIKW3y7eOG6V4tpME0R5jPdm3NzhIae3yteNGc/TTGKmDLA8f9liPg5RF
-P6WOG821y63tnvboEymVELsedLpYj4M0zy5fO24Um93TfrdRMBKs60Ee63GQsuqnXHGjOfophLhN
-dm9BB3msx0FaTT+FkDZutFQ/UQ6cZGnjBVVLKsFjPQ5S0nYvhDxxI+t2Der/Iz2fV3qOasq7lp4i
-1uMg5QPKapcvvTusZfbBvqjKVSGP9aw02hOAJG2+G8K/n4T+z7EGF3LDtFRd4OM21MTu1he4QC//
-m9fPz+zC/5/8Pj39HWbzhqA/4fse6PUiaj4Y901bSO2V1vSQOujsIME3syI+JeEjPLn2DgLVBjk5
-oEGFYbp+jhcAkwUkKXT6iAAIP7FBAyjm6Q3jSa6v04CkAYUrF1WhJqAozUJViJehOl0BUBeiKnEg
-4U14D8Kt4wC6CxVIy8MdKtbjIOUFCrd8Y4QJMMF0NQL19TleP/OigMQ5dnemreMAeqDfTwKoD/T2
-kXDWNs5Bsuknqt1LoZ9eAkwTRBCkVgDpJVjfd6LN43QQduDewb6R8bRtnIO0jX56M9oJVyQNpAG1
-di+mtXugPz8Z940DCN8AxgFykIrRT5QRcSXaOq21G8Lveyw8UcXRnDiLDuLumuQAOUjF6KcLAcFk
-f3MgjYxrB8OplM1uBcjtbAepOP3EZfOwfroAt+4BHLsOtHUW+/tFgINNBNdBDtLu9BOEitJPE1AQ
-AgxRo4CkrWFRz051HeQg7UI/wYu9FvRTi1q9DhkMDZgV8bO5nbD42LsOcpD2CNRAVChNP7Wfi56C
-qCZAGgUN1hOvB9dB64zKT0GScwfvTYdnjWaDZkt8Dbd1EFa88RBXHWsiwds4B6looCioIBgNgqom
-AKJA4m52EnNTSwfIW7tD6Cfo8NVAT/UIHtzWBaK9ozb+aXeEdR3kFelQ7V5FQFMjgCSQRgYYavdt
-cB3kIJ0BKAou7n7g0r0m4NeCt3EO0pmA4gDD30/dESkE/eYpDpCDdBqgtK9xFSlEtG4OkIN0CqCk
-r4UIoBwgB+n0QMW+JzGPivGReTR+Cnb7QebweEXykei9cHh8+PDhw4cPHz58+PDhw0dx478CDABX
-OwruJfHOFwAAAABJRU5ErkJggg==" transform="matrix(1 0 0 1 -8.5 122.5)">
-	</image>
-	<g>
-		<polygon class="st3" points="9.9,185.4 96.5,235.4 183.1,185.4 96.5,135.4 		"/>
-	</g>
-</g>
+<polygon class="st0" points="9.9,185.4 96.5,235.4 183.1,185.4 96.5,135.4 "/>
 <g>
 	
 		<image style="overflow:visible;" width="139" height="153" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIsAAACZCAYAAAAfB8lvAAAACXBIWXMAAAsSAAALEgHS3X78AAAA
@@ -184,7 +97,7 @@ okTLQLIULEFwVgIFvemuG74CIEvDMgCeFc4t1lC3GBxvB8tAeHqvw/gk1+JwvD0sFwL00WD8WlhW
 Aek3APEsz/Isz/Isz/Isz/Luy38FGACZIuKJGG8BCAAAAABJRU5ErkJggg==" transform="matrix(1 0 0 1 27.5 50.5)">
 	</image>
 	<g>
-		<path class="st4" d="M96.8,120.6c8.1,0,15.6-0.7,22.6-2.2c7-1.5,12.6-3.6,16.6-6.5v8.7c0,2.4-1.8,4.5-5.3,6.5
+		<path class="st2" d="M96.8,120.6c8.1,0,15.6-0.7,22.6-2.2c7-1.5,12.6-3.6,16.6-6.5v8.7c0,2.4-1.8,4.5-5.3,6.5
 			c-3.5,2-8.3,3.6-14.3,4.8s-12.6,1.8-19.7,1.8c-7.1,0-13.6-0.6-19.7-1.8s-10.8-2.8-14.3-4.8c-3.5-2-5.3-4.2-5.3-6.5v-8.7
 			c4.1,2.9,9.6,5,16.6,6.5S88.7,120.6,96.8,120.6z M96.8,159.8c8.1,0,15.6-0.7,22.6-2.2c7-1.5,12.6-3.6,16.6-6.5v8.7
 			c0,2.4-1.8,4.5-5.3,6.5c-3.5,2-8.3,3.6-14.3,4.8s-12.6,1.8-19.7,1.8c-7.1,0-13.6-0.6-19.7-1.8s-10.8-2.8-14.3-4.8
@@ -200,52 +113,52 @@ Aek3APEsz/Isz/Isz/Isz/Luy38FGACZIuKJGG8BCAAAAABJRU5ErkJggg==" transform="matrix(
 <polygon class="st0" points="96.5,235.4 96.5,135.4 9.9,85.4 9.9,185.4 "/>
 <polyline class="st1" points="9.9,85.4 96.5,135.4 96.5,235.4 96.5,135.4 183.1,85.4 "/>
 <polygon class="st1" points="9.9,85.4 9.9,185.4 96.5,235.4 183.1,185.4 183.1,85.4 96.5,35.4 "/>
-<g class="st2">
-	<line class="st5" x1="83.1" y1="192.9" x2="22.5" y2="157.9"/>
-	<line class="st5" x1="83.1" y1="204.9" x2="22.5" y2="169.9"/>
-	<line class="st5" x1="83.1" y1="216.9" x2="22.5" y2="181.9"/>
+<g class="st3">
+	<line class="st4" x1="83.1" y1="192.9" x2="22.5" y2="157.9"/>
+	<line class="st4" x1="83.1" y1="204.9" x2="22.5" y2="169.9"/>
+	<line class="st4" x1="83.1" y1="216.9" x2="22.5" y2="181.9"/>
 	<g>
 		<g>
-			<line class="st6" x1="86.1" y1="173.4" x2="61.8" y2="159.3"/>
-			<circle class="st7" cx="56.8" cy="156.3" r="2"/>
+			<line class="st5" x1="86.1" y1="173.4" x2="61.8" y2="159.3"/>
+			<circle class="st6" cx="56.8" cy="156.3" r="2"/>
 		</g>
 		<g>
-			<line class="st6" x1="86.1" y1="164.4" x2="61.8" y2="150.3"/>
-			<circle class="st7" cx="56.8" cy="147.3" r="2"/>
+			<line class="st5" x1="86.1" y1="164.4" x2="61.8" y2="150.3"/>
+			<circle class="st6" cx="56.8" cy="147.3" r="2"/>
 		</g>
 		<g>
-			<line class="st6" x1="86.1" y1="154.4" x2="61.8" y2="140.3"/>
-			<circle class="st7" cx="56.8" cy="137.3" r="2"/>
+			<line class="st5" x1="86.1" y1="154.4" x2="61.8" y2="140.3"/>
+			<circle class="st6" cx="56.8" cy="137.3" r="2"/>
 		</g>
 		<g>
-			<line class="st6" x1="48.1" y1="151.4" x2="23.8" y2="137.3"/>
-			<circle class="st7" cx="18.8" cy="134.3" r="2"/>
+			<line class="st5" x1="48.1" y1="151.4" x2="23.8" y2="137.3"/>
+			<circle class="st6" cx="18.8" cy="134.3" r="2"/>
 		</g>
 		<g>
-			<line class="st6" x1="86.1" y1="182.4" x2="61.8" y2="168.3"/>
-			<circle class="st7" cx="56.8" cy="165.3" r="2"/>
+			<line class="st5" x1="86.1" y1="182.4" x2="61.8" y2="168.3"/>
+			<circle class="st6" cx="56.8" cy="165.3" r="2"/>
 		</g>
 		<g>
-			<line class="st6" x1="48.1" y1="160.4" x2="23.8" y2="146.3"/>
-			<circle class="st7" cx="18.8" cy="143.3" r="2"/>
+			<line class="st5" x1="48.1" y1="160.4" x2="23.8" y2="146.3"/>
+			<circle class="st6" cx="18.8" cy="143.3" r="2"/>
 		</g>
 		<g>
-			<line class="st6" x1="48.1" y1="142.4" x2="23.8" y2="128.3"/>
-			<circle class="st7" cx="18.8" cy="125.3" r="2"/>
+			<line class="st5" x1="48.1" y1="142.4" x2="23.8" y2="128.3"/>
+			<circle class="st6" cx="18.8" cy="125.3" r="2"/>
 		</g>
 		<g>
-			<line class="st6" x1="48.1" y1="132.4" x2="23.8" y2="118.3"/>
-			<circle class="st7" cx="18.8" cy="115.3" r="2"/>
+			<line class="st5" x1="48.1" y1="132.4" x2="23.8" y2="118.3"/>
+			<circle class="st6" cx="18.8" cy="115.3" r="2"/>
 		</g>
 	</g>
-	<circle class="st8" cx="21.4" cy="105.1" r="3.5"/>
-	<circle class="st9" cx="30.8" cy="110.6" r="3.5"/>
+	<circle class="st7" cx="21.4" cy="105.1" r="3.5"/>
+	<circle class="st8" cx="30.8" cy="110.6" r="3.5"/>
 </g>
-<line class="st10" x1="158" y1="192" x2="175.3" y2="182"/>
-<line class="st10" x1="158" y1="188" x2="175.3" y2="178"/>
-<line class="st10" x1="158" y1="184" x2="175.3" y2="174"/>
-<line class="st10" x1="158" y1="180" x2="175.3" y2="170"/>
-<line class="st10" x1="158" y1="176" x2="175.3" y2="166"/>
+<line class="st9" x1="158" y1="192" x2="175.3" y2="182"/>
+<line class="st9" x1="158" y1="188" x2="175.3" y2="178"/>
+<line class="st9" x1="158" y1="184" x2="175.3" y2="174"/>
+<line class="st9" x1="158" y1="180" x2="175.3" y2="170"/>
+<line class="st9" x1="158" y1="176" x2="175.3" y2="166"/>
 <g>
 	<polygon class="st0" points="9.9,55.4 96.5,105.4 183.1,55.4 96.5,5.4 	"/>
 	<polygon class="st1" points="96.5,5.4 9.9,55.4 96.5,105.4 183.1,55.4 	"/>
