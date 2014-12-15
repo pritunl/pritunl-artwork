@@ -25,9 +25,8 @@
 </style>
 <g>
 	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="0" y1="1977.5907" x2="5530.3784" y2="1977.5907">
-		<stop  offset="0" style="stop-color:#1E4A87"/>
-		<stop  offset="0.5878" style="stop-color:#6515B1"/>
-		<stop  offset="1" style="stop-color:#60209E"/>
+		<stop  offset="0" style="stop-color:#3076D5"/>
+		<stop  offset="1" style="stop-color:#1026A1"/>
 	</linearGradient>
 	<rect x="0" y="0" class="st0" width="5530.38" height="3955.18"/>
 	<rect x="4096.14" y="2645.39" class="st1" width="859.51" height="859.51"/>
